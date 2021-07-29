@@ -56,8 +56,14 @@ label {
 }
 
 .check-and-submit,
-div {
+div {    
     text-align: left;
     margin-bottom: 10px;
     padding-bottom: 25px;
+    
+}
+
+.check-and-submit{
+    position: relative;
+    
 }
