@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>homework-2</title>
+</head>
+<body>
+    <div class="container">
+        <form action="Sign in" method="POST">
+            <table>
+
+                <tr class="form-control">
+                    <th>
+                        <h3>Sign in</h3>
+                    </th>
+                </tr>
+
+                <tr class="form-control">
+                    <td>
+                        <label for="Name">Full Name:</label>
+                        <input type="text" name="name" id="Name" placeholder="Enter full name">
+                    </td>
+                </tr>
+
+                <tr class="form-control">
+                    <td>
+                        <label for="Email">Email address:</label>
+                        <input type="email" name="email" id="Email" placeholder="Enter email">
+                    </td>
+                </tr>
+
+                <tr class="form-control-checkbox">
+                    <td>
+                        <p>Communication:</p>
+                    </td>
+                </tr>
+
+                <tr class="form-control-1">
+                    <td>
+                        <input class="myinput" type="checkbox" name="checkbox-Email" id="Checkbox-Email">
+                        <label for="Email">Email</label>
+                    </td>
+                </tr>
+
+                <tr class="form-control-2">
+                    <td>
+                        <input class="myinput" type="checkbox" name="checkbox-SMS" id="Checkbox-SMS">
+                        <label for="Checkbox-SMS">SMS</label>
+                    </td>
+                </tr>
+
+                <tr class="form-control-3">
+                    <td>
+                        <input class="myinput" type="checkbox" name="checkbox-Phone" id="Checkbox-Phone">
+                        <label for="Checkbox-Phone">Phone</label>
+                    </td>
+                </tr>
+
+                <tr class="form-control-comunication">
+                    <td>
+                        <br>
+                        <p>User Group:</p>
+                    </td>
+                </tr>
+
+                <tr class="form-control-radio">
+                    <td>
+                        <input class="myinput" type="radio" name="radio" id="Sales-Person" value="Sales-Person">
+                        <label for="Sales-Person">Sales Person</label>
+                        <input class="myinput" type="radio" name="radio" id="Customer" value="customer">
+                        <label for="Customer">Customer</label> <br> <span>Please select user group</span>
+
+                    </td>
+                </tr>
+                
+            </table>
+            <div class="btn">
+                <td><input type="submit" name="submit" id="Submit"></td>
+                <td><input type="reset" name="cancel" id="Cancel" value="Cancel"></td>
+            </div>
+        </form>
+    </div>
+</body>
+</html>
