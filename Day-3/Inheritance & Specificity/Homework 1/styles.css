@@ -1,0 +1,40 @@
+
+.button1 {
+    background-color: rgba(31, 74, 218, 0.774);
+    color: white;
+    border-width: inherit;
+    
+}
+
+.button2 {
+    color: gray;
+    border-width: initial;
+}
+
+.button3 {
+    border-style: initial;
+    border-style: dashed;
+    color: gray;
+}
+
+.button4 {
+    
+    color:red;
+    border-width: initial;
+}
+
+div {
+    color: gray;
+    margin: 20px;
+    padding: 20px;
+    border-style: inherit;
+  
+}
+
+button {
+    height: 30px;
+    width: 80px;
+    border-radius: 2px;   
+    color: gray;
+}
+
