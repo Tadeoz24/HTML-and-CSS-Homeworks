@@ -1,13 +1,20 @@
 
-.button1 {
-    background-color:#0288d1   ;
-    color: white;
-    border-width: inherit;   
+button {
+    border: 1px solid gray;
+    border-radius: 5px;   
+    color: gray;
+    height: 30px;
+    width: 80px;
 }
 
-.button2 {
-    color: gray;
+.button1 {
+    background-color:#0288d1 ;
+    color: white;
+}
+
+.button2 {   
     border: 1px solid gray;
+    color: gray;
 }
 
 .button3 {
@@ -16,23 +23,8 @@
     color: gray;
 }
 
-.button4 {  
-    color:red;
+.button4 {
     border: 1px solid gray;
+    color: red;
+    
 }
-
-div {
-    color: gray;
-    margin: 20px;
-    padding: 20px;
-    border-style: inherit;
-}
-
-button {
-    height: 30px;
-    width: 80px;
-    border-radius: 5px;   
-    color: gray;
-    border: 1px;
-}
-
