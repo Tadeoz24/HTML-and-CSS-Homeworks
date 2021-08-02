@@ -29,7 +29,7 @@ li {
 .mtavari {
     text-align: left;
     display: flex;
-    justify-content: space-between;    
+    justify-content: space-between;        
 }
 
 .oriicon {
@@ -52,4 +52,17 @@ li {
 #par {    
     display: flex;
     font-size: 22px;
+}
+
+.net {
+    border: 1px solid gray;
+} 
+
+.pirveli {
+    border: 1px solid gray;
+    
+}
+
+.sick {
+    border: 1px solid gray;
 }
