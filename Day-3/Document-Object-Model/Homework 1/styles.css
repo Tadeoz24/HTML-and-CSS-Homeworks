@@ -1,0 +1,55 @@
+.a {
+    padding: 10px;
+}
+
+.b {
+    padding: 10px;
+}
+
+.c {
+    padding: 10px;
+}
+
+.d {
+padding: 10px;    
+}
+
+body {
+    padding: 20px;
+}
+
+li { 
+	list-style: none;
+}
+
+.icon {
+    padding: 15px;       
+}
+
+.mtavari {
+    text-align: left;
+    display: flex;
+    justify-content: space-between;    
+}
+
+.oriicon {
+    float: right;   
+    display: flex;
+    align-items: center;
+}
+
+.samiicon {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+
+#my-list {
+    padding: 1px;
+}
+
+#par {    
+    display: flex;
+    font-size: 22px;
+}
