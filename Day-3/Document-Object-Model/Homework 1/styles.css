@@ -29,13 +29,15 @@ li {
 .mtavari {
     text-align: left;
     display: flex;
-    justify-content: space-between;        
+    justify-content: space-between;
+    padding: 10px;  
 }
 
 .oriicon {
     float: right;   
     display: flex;
     align-items: center;
+    
 }
 
 .samiicon {
@@ -43,6 +45,7 @@ li {
     align-items: center;
     justify-content: space-between;
     margin-top: 15px;
+    
 }
 
 #my-list {
@@ -52,17 +55,23 @@ li {
 #par {    
     display: flex;
     font-size: 22px;
+    padding: 10px;
 }
 
 .net {
     border: 1px solid gray;
+    padding: 10px;
+    padding-right: 10px;
+    
 } 
 
 .pirveli {
     border: 1px solid gray;
-    
+    padding: 10px;
+    padding-bottom: 1px;
 }
 
 .sick {
     border: 1px solid gray;
 }
+

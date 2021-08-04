@@ -1,0 +1,49 @@
+#modal {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 500px;
+    height: 150px;
+    border: 1px solid black;
+  
+}
+
+#modal header {
+    height: 50px;
+    position: relative;
+    color: rgb(58, 58, 58);
+}
+
+#modal header h1 {
+    position: absolute;
+    left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1px;
+    transform: translateY(1%, 10%);
+    
+    
+}
+
+#modal header button {
+    background: none;
+    border: none;
+    position: absolute;
+    right: 10px;
+    top: 20%;
+    transform: translateY(50%);
+    color: rgb(58, 58, 58);
+
+}
+
+#modal .body {
+    padding: 50px;
+    margin-right: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+#modal body p {
+    margin: 0;
+    
+}
