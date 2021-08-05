@@ -1,0 +1,65 @@
+.pirveli,
+.meore,
+.mesame,
+.meotxe,
+.mexute {
+    width: 960px;
+    margin:auto;
+    }
+
+.sect1-div {
+    width: 220px;
+    height: 220px;
+    background-color: #E1E1E1;
+    float: left;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    }
+.sect2-div{
+    width: 100px;
+    height: 100px;
+    background-color: #E1E1E1;
+    float: left;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.sect3-1 {
+    width: 700px;
+    height: 220px;
+    background-color: #E1E1E1;
+    float: left;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.sect3-2 {
+    width: 220px;
+    height: 220px;
+    background-color: #E1E1E1;
+    float: left;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.sect4-1{
+    width: 220px;
+    height: 220px;
+    background-color: #E1E1E1;
+    float: left;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.sect4-2{
+    width: 700px;
+    height: 220px;
+    background-color: #E1E1E1;
+    float: left;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.sect5{
+    width: 460px;
+    height: 220px;
+    background-color: #E1E1E1;
+    float: left;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
