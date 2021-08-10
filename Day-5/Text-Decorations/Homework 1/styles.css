@@ -1,0 +1,120 @@
+.text-1 {
+    font-size: 25px;
+    font-family: "Roboto", sans-serif;
+    width: 328px;
+    color: #34495e;
+  }
+  p {
+    color: #a1b1bc;
+    font-size: 14px;
+    font-family: "Roboto", sans-serif;
+    line-height: 22px;
+  }
+  .div-1 {
+    height: 28px;
+  }
+  .mini-box {
+    width: 13px;
+    height: 13px;
+    border: 1px solid black;
+    margin-right: 18px;
+    margin-top: 0;
+  }
+  .main {
+    width: 990px;
+    display: flex;
+    justify-content: space-between;
+  }
+  .sect-1 {
+    width: 1170px;
+    height: 1702px;
+    margin: auto;
+  }
+  .some-style {
+    width: 1169px;
+    height: 190px;
+    margin: 0 auto;
+    background-color: #ecf0f1;
+    overflow: auto;
+  }
+  .some-text {
+    height: 134px;
+    width: 164px;
+    font-size: 14px;
+    color: #a1b1bc;
+    margin-top: 30px;
+    margin-left: 31px;
+  }
+  .box-style {
+    width: 364px;
+    height: 400px;
+    background-color: #ecf0f1;
+  }
+  .boxandtext {
+    display: flex;
+    justify-content: space-between;
+  }
+  .text {
+    width: 768.93px;
+    height: 417.34px;
+  }
+  .divline {
+    width: 1169px;
+    height: 50px;
+    border: 1px solid #ecf0f1;
+    display: flex;
+    position: absolute;
+  }
+  a {
+    color: #1abc9c;
+  }
+  .boxdiv {
+    width: 50px;
+    height: 50px;
+    background-color: #34495e;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 20.5px;
+  }
+  .boxdiv img {
+    position: absolute;
+    top: 50%;
+    left: 2.2%;
+    transform: translate(-50%, -50%);
+    height: 22px;
+  }
+  .divline-2 {
+    width: 1139px;
+    height: 100px;
+    border: 1px solid #ecf0f1;
+    margin-top: 82px;
+    display: flex;
+    padding: 15px;
+  }
+  .boxdiv-2 {
+    width: 100px;
+    height: 100px;
+    border-radius: 3px solid #ffffff;
+    background-color: #a1b1bc;
+  }
+  .textbox {
+    width: 979px;
+    height: 127px;
+    margin-left: 30px;
+  }
+  h5 {
+    margin: 0;
+    color: #2c3e50;
+  }
+  .minibox {
+    width: 13px;
+    height: 13px;
+    background-color: #34495e;
+    margin-right: 18px;
+  }
+  .div-div1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }

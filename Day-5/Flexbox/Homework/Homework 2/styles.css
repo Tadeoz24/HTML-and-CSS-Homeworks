@@ -1,0 +1,71 @@
+.sec1-div{
+    width: 220px;
+    height: 220px;
+    background-color: rgb(201, 195, 195);
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+
+.sec1, .sec2, .sec3, .sec4, .sec5{
+    width: 960px;
+    margin: auto;
+    display: flex;
+    margin-bottom: 20px;
+}
+
+
+.sec2-div{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(201, 195, 195);
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.sec3-1{
+    width: 700px;
+    height: 220px;
+    background-color: rgb(201, 195, 195);
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.sec3-2{
+    width: 220px;
+    height: 220px;
+    background-color: rgb(201, 195, 195);
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.sec4-1{
+    width: 220px;
+    height: 220px;
+    background-color: rgb(201, 195, 195);
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.sec4-2{
+    width: 700px;
+    height: 220px;
+    background-color: rgb(201, 195, 195);
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.sec5-1{
+    width: 460px;
+    height: 220px;
+    background-color: rgb(201, 195, 195);
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.sec5-2{
+    width: 460px;
+    height: 220px;
+    background-color: rgb(201, 195, 195);
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
