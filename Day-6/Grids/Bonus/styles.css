@@ -39,43 +39,34 @@ body {
     background-color: white;
     grid-area: 1 / 7/ 4 / 8  ;
 }
-
 .col-7{
     background-color: white;
     grid-area: 1 / 8 / 5 / 9  ;
 }
-
 .col-8{
     background-color: white;
     grid-area: 1 / 9 / 5 / 10  ;
 }
-
 .col-9{
     background-color: white;
     grid-area: 2 / 10 / 3 / 11  ;
 }
-
 .col-10{
     background-color: white;
     grid-area: 4 / 1 / 5 / 2  ;
 }
-
-
 .col-11{
     background-color: white;
     grid-area: 4 / 2 / 5 / 3  ;
 }
-
 .col-12{
     background-color: white;
     grid-area: 2 / 2 / 4 / 3  ;
 }
-
 .col-13{
     background-color: white;
     grid-area: 2 / 3 / 5 / 4  ;
 }
-
 .col-14{
     background-color: white;
     grid-area: 2 / 4 / 5 / 6  ;
@@ -84,22 +75,18 @@ body {
     background-color: white;
     grid-area: 3 / 6 / 4 / 7  ;
 }
-
 .col-16{
     background-color: white;
     grid-area: 4 / 6 / 5 / 8  ;
 }
-
 .col-17{
     background-color: white;
     grid-area: 5/ 1 / 7 / 4  ;
 }
-
 .col-18{
     background-color: white;
     grid-area: 7 / 1 / 8 / 4  ;
 }
-
 .col-19{
     background-color: white;
     grid-area: 8 / 1 / 9 / 4  ;
@@ -108,43 +95,34 @@ body {
     background-color: white;
     grid-area: 9 / 1 / 12 / 2  ;
 }
-
 .col-21{
     background-color: white;
     grid-area: 9 / 2 / 10 / 3  ;
 }
-
 .col-22{
     background-color: white;
     grid-area: 10 / 2 / 12 / 3  ;
 }
-
 .col-23{
     background-color: white;
     grid-area: 9 / 3 / 12 / 4  ;
 }
-
 .col-24{
     background-color: white;
     grid-area: 9 / 4 / 12 / 6  ;
 }
-
 .col-25{
     background-color: white;
     grid-area: 11 / 6 / 12 / 10  ;
 }
-
 .col-26{
     background-color: white;
     grid-area: 5/ 4 / 9 / 5  ;
 }
-
-
 .col-27{
     background-color: white;
     grid-area: 5 / 5 / 6 / 6  ;
 }
-
 .col-28{
     background-color: white;
     grid-area: 6 / 5 / 9 / 6  ;
@@ -153,12 +131,10 @@ body {
     background-color: white;
     grid-area: 5 / 6 / 7 / 9  ;
 }
-
 .col-30{
     background-color: white;
     grid-area: 5 / 9 / 7 / 10  ;
 }
-
 .col-31{
     background-color: white;
     grid-area: 7 / 6 / 8 / 8  ;
@@ -175,17 +151,14 @@ body {
     background-color: white;
     grid-area: 8 / 6 / 11 / 7  ;
 }
-
 .col-35{
     background-color: white;
     grid-area: 8 / 7 / 9 / 10  ;
 }
-
 .col-36{
     background-color: white;
     grid-area: 6 / 10 / 7 / 12  ;
 }
-
 .col-37{
     background-color: white;
     grid-area: 9 / 7 / 11 / 10  ;
@@ -194,9 +167,3 @@ body {
     background-color: white;
     grid-area: 10 / 10 / 11 / 12  ;
 }
-
-
-
-
-
-

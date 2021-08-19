@@ -1,0 +1,38 @@
+html,
+body {
+  width: 100vw;
+  height: 100vh;
+}
+* {
+  margin: 0;
+}
+
+body {
+  overflow: hidden;
+}
+
+.peopley {
+  height: 100vh;
+  background: url(./Media/friends.png);
+  background-position-y: -260px;
+  background-repeat: no-repeat;
+}
+
+.colory {
+  height: 100vh;
+  background: url(./Media/colour.png);
+  background-repeat: no-repeat;
+}
+
+.writy {
+  height: 100vh;
+  width: 100vw;
+  background: linear-gradient(rgba(75, 141, 196, 0.2), rgba(0, 0, 0, 0.9) 85%);
+  position: absolute;
+  font-size: 250px;
+  font-weight: bold;
+  padding-left: 450px;
+  color: white;
+  font-family: "PT Sans", sans-serif;
+  padding-top: 320px;
+}
